@@ -11,9 +11,9 @@
     android:paddingTop="16dp"
     tools:context="jp.techacademy.sayuri.ishida.myapplication.MainActivity">
 
-
     <TextView
+        android:textSize="40sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello Android!"/>
+        android:text="Hello, Android!"/>
 </LinearLayout>
